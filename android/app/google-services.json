@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538839129076",
+    "project_id": "socialapp-9eda1",
+    "storage_bucket": "socialapp-9eda1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538839129076:android:98f52ed37affc6918ff7a1",
+        "android_client_info": {
+          "package_name": "com.codvets.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538839129076-hgp4jfffehfp7t7id494r52s05qpnbrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG65VhaoXX2FG_pB1LyW3K6SCIgaIdViQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538839129076-hgp4jfffehfp7t7id494r52s05qpnbrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -39,6 +39,7 @@ class _CrudOperationState extends State<CrudOperation> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
         title: const Text('Crud Operation'),
       ),
       body: Padding(
